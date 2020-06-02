@@ -1,0 +1,5 @@
+In this game we will ask you 10 questions
+and you must answer them in order to win 
+the game and in the end you will get the 
+final score you must choose answers 
+between A,B,C & D
